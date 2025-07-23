@@ -17,6 +17,8 @@ Image generation is achieved by starting with pure random noise and using the tr
 2.  **Set Up Colab:** In the Colab notebook, make sure to select a GPU runtime (`Runtime` -> `Change runtime type` -> `T4 GPU`).
 3.  **Run the Code:** Run the cells in the notebook from top to bottom.
 
+Alternatively, the file can be downloaded and ran in a different environment, e.g VSCode works pretty well.
+
 ## Generating the Trained Models
 
 The trained model files (`autoencoder.pth` and `unet.pth`) are not included in this repository due to their size.
